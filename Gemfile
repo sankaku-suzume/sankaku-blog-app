@@ -27,6 +27,7 @@ gem 'device'
 gem 'faker'
 gem 'hamlit'
 gem 'aws-sdk-s3', require: false
+gem 'bundler', '~> 2.0'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
